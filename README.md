@@ -13,8 +13,9 @@ The purpose of this analysis is to analyze and group Pewlett Hackards employee r
 - The current roles of these workers are as followed from most prominent to least: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assitant Engineer, Manager
 - Eligible employees for mentorship roles are very low in number, below 2000 in total
 
-![numbers](https://raw.githubusercontent.com/Queach/PyBer_Analysis/main/analysis/StatsByCityType.png "numbers")
+![numbers](https://raw.githubusercontent.com/Queach/Pewlett-Hackard-Analysis/main/Resources/Number%20of%20workers%20by%20title.png "numbers")
 
+Image: Total number of retirement ready employees by role
 
 ## Summary
 When the "silver tsunami" comes Pewlett Hackard will lose over 90 thousand roles leaving a massive hole in their work force
